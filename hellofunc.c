@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <hellomake.h>
 
-void myPrintHelloMake(void) {
+void myPrintHelloMake(void) 
+{
 
-  printf("Hello makefiles!\n");
+  printf("Hi, everybody! It's me, MichaelS!\n");
 
   return;
 }
